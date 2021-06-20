@@ -1,0 +1,10 @@
+#selected-container h4{
+    background-color: #90caf9;
+    padding: 0.2rem;
+}
+
+.selected-msg{
+    background-color: #80808017;
+    width: 100%;
+    text-align: left;
+}
